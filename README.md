@@ -5,6 +5,10 @@ persisto
 
 ## Install
 
+```sh
+composer require g4code/persisto
+```
+
 ## Usage
 
 ## Development
